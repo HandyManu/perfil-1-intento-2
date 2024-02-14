@@ -101,6 +101,10 @@ body{
     position: relative;
 }
 
+.coffee .coffee-1 p {
+    text-align: justify;
+    }
+    
 .coffee-content{
     text-align: center;
 }

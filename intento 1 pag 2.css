@@ -166,6 +166,9 @@ p{
     text-align: center;
 }
 
+.coffee .coffee-1 p {
+    text-align: justify;
+    }
 
 .blog-1{
    padding: 0 10px;
